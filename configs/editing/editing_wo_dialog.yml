@@ -8,7 +8,7 @@ latent_code_index: 38
 
 # inversion
 inversion:
-  is_real_image: True # False
+  is_real_image: True # True
   img_path: ./download/real_images/niyini.png
   crop_img: True
   device: cuda
