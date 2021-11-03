@@ -9,7 +9,7 @@ latent_code_index: 38
 # inversion
 inversion:
   is_real_image: False # False
-  img_path: ./download/real_images/annehathaway.png
+  img_path: ./download/real_images/niyini.png
   crop_img: True
   device: cuda
   img_mse_weight: 1.0
