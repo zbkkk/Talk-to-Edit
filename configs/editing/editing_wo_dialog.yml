@@ -9,7 +9,7 @@ latent_code_index: 38
 # inversion
 inversion:
   is_real_image: True # True
-  img_path: ./download/real_images/sunyiyun.png
+  img_path: ./download/real_images/lijiachen.png
   crop_img: True
   device: cuda
   img_mse_weight: 1.0
